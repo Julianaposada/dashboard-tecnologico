@@ -1,5 +1,24 @@
 # Dashboard de Innovación Tecnológica 2025
 
-Un proyecto atractivo y moderno que visualiza datos sobre tecnologías emergentes, como inteligencia artificial, energía renovable y criptomonedas. Este dashboard está diseñado para destacar tendencias actuales y futuras, proporcionando información clara y accesible a través de gráficos interactivos y un diseño responsivo.
+Este proyecto es un dashboard interactivo que destaca las tendencias en innovación tecnológica para el año 2025, centrándose en áreas como la inteligencia artificial, la energía renovable y las criptomonedas.
 
-Tecnologías utilizadas: HTML5, CSS3, JavaScript.
+## Tecnologías Utilizadas
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **Chart.js**
+- **Google Fonts**
+
+## Funcionalidades
+- Secciones dedicadas a IA, energía renovable y criptomonedas.
+- Gráficos interactivos que representan datos relevantes.
+- Tarjetas dinámicas que muestran tendencias emergentes.
+- Alternar entre modo claro y oscuro.
+
+## Pasos Futuro
+- Integrar el backend y la API para obtener datos en tiempo real.
+- Mejorar la accesibilidad y optimizar el código.
+- Implementar funcionalidades adicionales como filtrado y búsqueda.
+
+## Despliegue
+- El proyecto está disponible en [GitHub](<URL_DEL_REPOSITORIO>).
